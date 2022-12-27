@@ -4,7 +4,7 @@
 
 ## 📝 İçerik:
 
-Bu repositorie'de Google'ın tamamıyla ücretsiz olarak sunduğu [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-fundamentals/course) dokümantasyonunu Türkçeye çevriyor olacağız. Sizi hangi konu başlıklarının beklediğini, döküman sayısını, tahmini çalışma süresini, hangi başarım rozetini alabileceğinizi aşağıdaki tablodan görebilirsiniz. Aynı zamanda bir hata veya güncel olmayan bir parçayla karşılaşırsanız ilgili dokümanının sorumlu kişisine ulaşıp en kısa sürede güncellenmesini gözlemleyebilirsiniz.
+Bu repositorie'de Developer MultiGroup Topluluğunda gerçekleştirilecek Python eğitiminin dökümantasyonu olması için oluşturulmuştur. Bir hata veya net olmayan bir bölümle karşılaşırsanız düzenmekten çekinmeyin.
 
 ## 🛠 Güncellemeler
 
