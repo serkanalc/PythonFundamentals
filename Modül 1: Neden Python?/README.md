@@ -34,7 +34,7 @@ Yüksek seviyeli dilleri makine diline çevirmek için iki yaklaşım kullanıl�
 
 Python Programlama dili, **Guido Van Rossum** adlı Hollandalı bir programcı tarafından 90’lı yılların başında geliştirilmeye başlanmıştır. Çoğu insan adını piton yılanından aldığını düşünür, ancak düşünülenin aksine Guido Van Rossum bu programlama dilinin adını **The Monty Python** adlı bir İngiliz komedi grubunun, Monty Python’s Flying Circus adlı gösterisinden esinlenerek adlandırmıştır. Günümüzde **Python Software Foundation** çevresinde toplanan gönüllülerin çabalarıyla geliştirilmesi ve açık kaynak kod olarak özür kullanılması sürdürülmektedir.
 
-Guido Van Rossum bu dili geliştirirken koyduğu hedefler temel hedefler:
+Guido Van Rossum bu dili geliştirirken koyduğu temel hedefler:
 
 - Mümkün olduğunca okunabilir 
 - Ücretsiz ve herkesin kullanımına açık 
