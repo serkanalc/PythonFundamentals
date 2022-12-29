@@ -15,7 +15,7 @@ Odanızı düzenlemek istediğinizi ve bunun için bir arkadaşınızdan yardım
 
 **Adım 4:** `kurşunKalemler` yazılı kutuya elinde bulunan 7 adet renkli kalemi koy <br>
 
-**Adım 5:** Bu 2 kutuyu `kalemler`adındaki daha büyük başka bir kutuya koy <br>
+**Adım 5:** Bu 2 kutuyu `kalemler` adındaki daha büyük başka bir kutuya koy <br>
 
 Burda dikkat etmeniz gereken yegane şey kutulara içine koyacağınız şeylere göre, okuyana sonrasında içinde olanı anımsatıp işinizi kolaylaştıracak isimler vermektir. Değişkenlerde böyle çalışır içinde tutacağı veriyi sonrasında size hatırlatacak isimler vermeniz sizin için önemli olacaktır. Hadi yükardeki işlemleri Python ile yapalım:
 
