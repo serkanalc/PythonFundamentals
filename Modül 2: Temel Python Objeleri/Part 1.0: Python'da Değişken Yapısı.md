@@ -34,4 +34,20 @@ kalemler = renkliKalemler + kurşunKalemler
 
 Yukardaki kod satırları ile değişkenlerinizi tanımlamış oldunuz. Kutu örneğinden gitmeye devam edersek, programlamada "=" ifadesinin sol tarafındaki değişkeniniz(kutunuz), sağ tarafındaki ise kutunun içine konulacak verileriniz olacaktır. İşte bu kadar basit!
 
+## Değişken Adlandırma Kuralları
+
+Gerçek hayatta eşyalarınızı koyacağınız kutu üstüne isim yazarken istediğiniz ismi seçebilirsiniz ama programlamada işler böyle yürümez. Kullanacağınız programlama dillerinin belli kuralları vardır ve bu kurallara dikkat etmezseniz ilginç hatalarla karşılaşabilirsiniz. Bu kuralların yanı sıra kullanmasanızda programınızın çalışacağı ama kullanmanız halinde kodlarınızı takibi kolay ve daha okunaklı hale getirecek değişken adlandırma yöntemleride vardır. Gelin birlikte inceleyelim:
+
+1. Değişkenler bir sayı ile başlayamaz
+
+```python
+
+  
+
+```
+  
+
+
+
+
 ## Değişken Türleri
