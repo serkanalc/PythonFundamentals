@@ -38,14 +38,43 @@ Yukardaki kod satırları ile değişkenlerinizi tanımlamış oldunuz. Kutu ör
 
 Gerçek hayatta eşyalarınızı koyacağınız kutu üstüne isim yazarken istediğiniz ismi seçebilirsiniz ama programlamada işler böyle yürümez. Kullanacağınız programlama dillerinin belli kuralları vardır ve bu kurallara dikkat etmezseniz ilginç hatalarla karşılaşabilirsiniz. Bu kuralların yanı sıra kullanmasanızda programınızın çalışacağı ama kullanmanız halinde kodlarınızı takibi kolay ve daha okunaklı hale getirecek değişken adlandırma yöntemleride vardır. Gelin birlikte inceleyelim:
 
+### Kurallar
+
 1. Değişkenler bir sayı ile başlayamaz
 
 ```python
 
-  
+# Kullanım halinde program hata verecektir!
+
+7taneKalem = 7 
 
 ```
   
+2. Değişkenler aritmatik sembollerle başlayamaz
+
+
+```python
+
+# Kullanım halinde program hata verecektir!
+
++kalemKutusu = 7   
+
+```
+
+3. Python'da özel anlam ifade eden kelimeler ve fonksiyonlar değişken olarak kullanılamaz, kullanılma durumunda değişken ismini kabul edecektir ancak sonrasında fonksiyonlarınız çalışmayacaktır.
+
+```python
+
+# Kullanım halinde program hata verecektir!
+
+false = 7
+continue = 8
+del = 9
+print = 10
+type = 11
+  
+```
+
 
 
 
