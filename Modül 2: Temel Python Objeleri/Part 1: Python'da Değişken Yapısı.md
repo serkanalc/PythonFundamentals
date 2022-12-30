@@ -22,7 +22,6 @@ Burda dikkat etmeniz gereken yegane şey kutulara içine koyacağınız şeylere
 ```python
 
 # Adım 1 & Adım 2
-
 renkiKalemler = 5
 
 # Adım 3 & Adım 4
