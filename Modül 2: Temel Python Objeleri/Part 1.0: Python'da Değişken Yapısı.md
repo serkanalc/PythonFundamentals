@@ -38,7 +38,7 @@ Yukardaki kod satırları ile değişkenlerinizi tanımlamış oldunuz. Kutu ör
 
 Gerçek hayatta eşyalarınızı koyacağınız kutu üstüne isim yazarken istediğiniz ismi seçebilirsiniz ama programlamada işler böyle yürümez. Kullanacağınız programlama dillerinin belli kuralları vardır ve bu kurallara dikkat etmezseniz ilginç hatalarla karşılaşabilirsiniz. Bu kuralların yanı sıra kullanmasanızda programınızın çalışacağı ama kullanmanız halinde kodlarınızı takibi kolay ve daha okunaklı hale getirecek değişken adlandırma yöntemleride vardır. Gelin birlikte inceleyelim:
 
-### Kurallar
+### Kurallar:
 
 1. Değişkenler bir sayı ile başlayamaz
 
@@ -68,15 +68,48 @@ Gerçek hayatta eşyalarınızı koyacağınız kutu üstüne isim yazarken iste
 # Kullanım halinde program hata verecektir!
 
 false = 7
-continue = 8
-del = 9
-print = 10
-type = 11
-  
+print = 10  
+```
+
+4. Değişkenler adlandırılırken boşluk bırakılamaz
+
+
+```python
+
+# Kullanım halinde program hata verecektir!
+
+kalem kutusu = 7
+
 ```
 
 
+### Değişken Adlandırma Yöntemleri:
 
+1. Pytnon, türkçe harfleri değişkenlerinizde kabul eder ancak ilerleyen aşamalarda uyum problemleri çıkabileceği için türkçe harf kullanımlarından kaçınmanız yararınıza olabilir.
 
+```python
+
+sayı = 10 # Programınız kullanım halinde çalışır
+
+number = 10 # Programınız kullanım halinde çalışır
+```
+
+2. Değişkenleri adlandırırken boşluk bırakma durumunda `_` veya Deve kemeri metodu kullanılabilir.
+
+```python
+
+kalem_kutusu = 7 # Programınız kullanım halinde çalışır
+
+kalemKutusu = 7 # Programınız kullanım halinde çalışır
+```
+
+3. Değişkenleri adlandırırken içinde tutulacak değeri en iyi betimleyecek isimleri kullanmanız işinize yarayacaktır
+
+```python
+
+sayı = 3,14 # Programınız kullanım halinde çalışır
+
+pi_sayısı = 3,14 # Programınız için daha doğru bir kullanımdır!
+```
 
 ## Değişken Türleri
