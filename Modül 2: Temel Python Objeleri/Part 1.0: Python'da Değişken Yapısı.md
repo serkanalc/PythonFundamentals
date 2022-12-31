@@ -40,24 +40,46 @@ Gerçek hayatta eşyalarınızı koyacağınız kutu üstüne isim yazarken iste
 
 ### Kurallar:
 
-**Kural 1:** Değişkenler bir sayı ile başlayamaz
-
-**Kural 2:** Değişkenler aritmatik sembollerle başlayamaz
-
-**Kural 3:** Python'da özel anlam ifade eden kelimeler ve fonksiyonlar değişken olarak kullanılamaz, kullanılma durumunda değişken ismini kabul edecektir ancak sonrasında fonksiyonlarınız çalışmayacaktır.
-
-**Kural 4:** Değişkenler adlandırılırken boşluk bırakılamaz
+1. Değişkenler bir sayı ile başlayamaz
 
 ```python
 
-7taneKalem = 7 # Kural 1
+7taneKalem = 7 # Kullanımı hatalı!
 
-+kalemKutusu = 7 # Kural 2 
+8basamak = 8 # Kullanımı hatalı!
+```
+2. Değişkenler aritmatik sembollerle başlayamaz
 
-false = 7 #Kural 3
-print = 10 #Kural 3
 
-kalem kutusu = 7 #Kural 4
+```python
+
++kalemKutusu = 7 # Kullanımı hatalı!
+
+-kalemler = 7 # Kullanımı hatalı!
+```
+3. Değişkenler tanımlanırken Python'da özen anlam ifade eden kelimeler değişken olarak kullanılamaz.
+
+```python
+
+false = 11 # Kullanımı hatalı!
+
+elif = 12 # Kullanımı hatalı!
+```
+4. Değişkenler tanımlanırken Python'da tanımlanmış fonksiyonlar değişken ismi olarak kullanılmamalıdır.
+
+```python
+
+print = 13 # Kullanımı hatalı!
+
+def = 14 # Kullanımı hatalı!
+```
+5. Değişkenler adlandırılırken boşluk bırakılamaz
+
+```python
+
+kalem kutusu = 15 # Kullanımı hatalı!
+
+değişken sayısı = 16 # Kullanımı hatalı!
 ```
 
 ### Değişken Adlandırma Yöntemleri:
