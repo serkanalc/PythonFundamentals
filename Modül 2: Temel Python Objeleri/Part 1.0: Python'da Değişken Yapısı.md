@@ -110,5 +110,3 @@ sayı = 3,14 # Programınız kullanım halinde çalışır
 
 pi_sayısı = 3,14 # Programınız için daha doğru bir kullanımdır!
 ```
-
-## Değişken Türleri
