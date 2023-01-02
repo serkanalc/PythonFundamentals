@@ -10,13 +10,15 @@ Bu repositorie'de Developer MultiGroup Topluluğunda gerçekleştirilecek Python
 
 Bu repositoriyi düzenli olarak güncelliyor ve geliştiriyoruz. siz de bu güncellemelerden haberdar olmak ve bir sonraki geliştirme veya güncellememizin ne zaman gerçekleşeceğini öğrenmek için [bu linki](https://github.com/serkanalc/Android-Kotlin-Fundamentals/wiki/Updates) kullanabilirsiniz. İlerleyiş hakkında bize görüşlerinizi ve önerilerinizi iletmekten çekinmeyin. 
 
+<img align="right" src="https://media.giphy.com/media/fWpU2nQmUKvRct4c1u/giphy.gif" width='250'/>
+
+
 ## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
 
 
-Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/serkanalc/PythonFundamentals/stargazers)'ların arasına katılıp bizi buna benzer kaynak paylaşımları yapmaya motive edebilirsiniz.⭐
+Eğer size bir faydası dokunduğunu düşünüyorsanız bu repoyu starlayarak siz de [Stargazers](https://github.com/serkanalc/Android-Basics-with-Compose-TR/stargazers)'ların arasına katılıp beni buna benzer kaynak paylaşımları yap-<br>maya motive edebilirsiniz.⭐
 
-Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya düzeltilmesi gerekiyorsa lütfen ilgili kişilere ulaşarak bunu bildirin
-ve en kısa sürede düzenlememize katkıda bulunmuş olun 👍🏻
+Bu repo gönüllülük esaslı geliştirilmiştir, dolayısıyla bir şey eksikse veya dü- <br>zeltilmesi gerekiyorsa lütfen bana ulaşarak bunu bildirin ve en kısa sürede düzenlememe katkıda bulunmuş olun 👍🏻
 
 
 ## 🧾 Lisans
