@@ -11,5 +11,18 @@ Bir arkadaşınızdan su istediğinizi varsayalım, ona su istediğinizi söyler
 
 ## Tanımlanmış Basit Fonksiyonlar
 
-Bir çok programlama dilinde kullanmanız için hazır fonksiyonlar vardır.
+Bir çok programlama dilinde kullanmanız için hazır fonksiyonlar vardır. Bu fonksiyonlar o programlama dilini kullanabilmeniz için öncesinde tanımlanmıştır. Bu dokümanda en temel fonksiyonlardan birkaçını inceliyor ve örneklendiriyor olacağız.
+
+### print() Fonksiyonu
+
+Print fonksiyonu Python'daki en temel ve ilk akla gelen foksiyondur. `print()` fonksiyonu, bir değişkenin veya bir ifadenin değerini ekrana yazdırmak için kullanılır. Temel anlamda bu işe yarasa da `print()`fonksiyonunun birçok kullanım şekli vardır:
+
+```python
+
+isim = Serkan
+print(isim) # Çıktı, isim değişkeninin içinde tuttuğu değer olan "Serkan" olacaktır 
+
+```
+
+
 
