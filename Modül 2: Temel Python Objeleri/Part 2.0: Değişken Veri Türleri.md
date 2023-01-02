@@ -6,7 +6,7 @@ Bellekte saklanan veriler farklı türde olabilir. Bu işlem gerçek hayattakine
 
 Matematikte birçok sayı kümesine raslayabiliriz, Doğal Sayılar, Tam Sayılar, Rasyonel Sayılar, İrrasyonel Sayılar, Reel Sayılar, Karmaşık Sayılar bu sayı kümeleri için güzel örneklerdir. Programlamada ki kullanacaklarımız ise `Integer`, `Float`, ve `Complex` veri tipleridir. Bu dokümanda temel değişken türlerini inceleyeceğimiz için sadece `Integer`ve `Float` değişken tiplerini örnekliyor olacağız.
 
-**Integer** 
+### Integer
 
 
 
