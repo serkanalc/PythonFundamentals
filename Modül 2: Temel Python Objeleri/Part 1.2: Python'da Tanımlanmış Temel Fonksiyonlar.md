@@ -20,9 +20,41 @@ Print fonksiyonu Python'daki en temel ve ilk akla gelen foksiyondur. `print()` f
 ```python
 
 isim = Serkan
-print(isim) # Çıktı, isim değişkeninin içinde tuttuğu değer olan "Serkan" olacaktır 
+print(isim) 
+
+# Çıktı, isim değişkeninin içinde tuttuğu değer olan "Serkan" olacaktır 
 
 ```
+```python
+
+x = 5
+y = 10
+print(x + y)
+
+# Çıktı, 10 ve 5 sayısının toplamı olan 15 olacaktır
+
+```
+```python
+
+print("Rakamlar:",0,1,2,3,4,5,6,8,9)
+
+# Çıktı, Rakamlar: 0 1 2 3 4 5 6 8 9 olacaktır
+
+```
+### type() Fonksiyonu
+
+type() fonksiyonu en basit açıklamasıyla içine gönderilen değerin hangi veri tipinden olduğunu söyler. Kullanımı basittir, sadece öğrenmek istediğiniz değerin türünü type() fonksiyonunun içine yazarak çağırırsınız.
+
+```python
+
+değer = 11
+print(type(değer))
+
+# Çıktı, integer'in kısaltması olan int olacaktır.
+
+```
+
+
 
 
 
