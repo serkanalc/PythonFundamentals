@@ -62,12 +62,14 @@ Bir diğer hedefte olduğu gibi python ücretsiz ve herkesin kullanımına açı
 Python programlama dilini öğrenmek için daha birçok neden olsada temel anlamda bu nedenleri başta bilmek, sizin için iyi bir başlangıç olacaktır. 
 <br>
 
-
-## Özet
+## Python Kullanım Alanları.
 
 <br>
 
-Kullanıcılar için **Hızlı**, **Güçlü**, **Güvenli** ve **Tamamıyla ücretsiz** olması Python'u öğrenmek için mükemmel nedenler olsada, öğrenmeye başladıkça daha birçok harika neden keşfedeceğinize emin olabilirsiniz. Umarım öğrenme süreciniz güzel geçer. 
+Python dünya çapında birçok popüler programda kullanılmaktadır. Örnekler arasında, İnternet oluşturma araçları olan **Django** ve **Flask**, veri analizi için kullanılan **Pandas** ve **NumPy**, makine öğrenimi için kullanılan **scikit-learn**, bilimsel hesaplamalar için kullanılan **SciPy**, web tarama için kullanılan **Beautiful Soup ve Requests**, ve birçok başka popüler yazılım projesi bulunmaktadır.
+
+<br>
+
 
 
 
