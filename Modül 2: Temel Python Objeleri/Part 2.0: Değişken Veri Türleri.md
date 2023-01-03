@@ -68,3 +68,6 @@ b = `Değişken Veri Türleri"""
 # String değişken tanımlaması hata verecektir
 
 ```
+
+## Dizi Tipleri
+
