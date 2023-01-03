@@ -4,11 +4,7 @@
 
 ## 📝 İçerik:
 
-Bu repositorie'de Developer MultiGroup Topluluğunda gerçekleştirilecek Python eğitiminin dökümantasyonu olması için oluşturulmuştur. Bir hata veya net olmayan bir bölümle karşılaşırsanız düzenmekten çekinmeyin.
-
-## 🛠 Güncellemeler
-
-Bu repositoriyi düzenli olarak güncelliyor ve geliştiriyoruz. siz de bu güncellemelerden haberdar olmak ve bir sonraki geliştirme veya güncellememizin ne zaman gerçekleşeceğini öğrenmek için [bu linki](https://github.com/serkanalc/Android-Kotlin-Fundamentals/wiki/Updates) kullanabilirsiniz. İlerleyiş hakkında bize görüşlerinizi ve önerilerinizi iletmekten çekinmeyin. 
+Bu repositorie'de Developer MultiGroup Topluluğunda gerçekleştirilecek Python eğitiminin dökümantasyonu olması için oluşturulmuştur. Basit programla ve Python diliyle temel anlamda neler yapabileceğine odaklanan bu eğitim serisi programlamaya yeni başlayan veya basit aşamada programlama bilgisi olup Python'a yeni başlayanlar için dizayn edilmiştir. Bir hata veya net olmayan bir bölümle karşılaşırsanız düzenmekten çekinmeyin.
 
 ## ⭐ Bu Repoyu Faydalı Buldunuz Mu ?
 
